@@ -1,2 +1,9 @@
 name: New Azure project for cicd
+tigger: - main
+
+
+Pool: ubuntu
+
+
+
 
